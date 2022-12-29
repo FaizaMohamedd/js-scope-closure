@@ -10,7 +10,8 @@
  * 1. What is the difference between counter1 and counter2?
  * 
  * 2. Which of the two uses a closure? How can you tell?
- * 
+ * Closures are frequently used in JavaScript for object data privacy, in event handlers and callback functions,
+
  * 3. In what scenario would the counter1 code be preferable? In what scenario would counter2 be better? 
  *
 */
